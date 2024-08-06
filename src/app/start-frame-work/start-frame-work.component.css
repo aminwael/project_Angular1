@@ -1,0 +1,38 @@
+/* .main-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  color: #6c757d;
+}
+.container{
+
+} */
+
+body{
+  background-color: rgb(47, 255, 234);
+}
+.outer-container{
+  height: 81vh;
+
+}
+
+
+.main-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-size: .8rem;
+  color: #6c757d;
+}
+
+.container img {
+  max-width: 20%;
+  height: auto;
+}
